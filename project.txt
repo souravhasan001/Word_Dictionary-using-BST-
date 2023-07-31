@@ -1,0 +1,5 @@
+Bird     : Its a animel
+Car        : Its a auto mobile
+Cat : Animal
+Dog      : Animel
+Rickshaw         : A rickshaw is a little taxi on two wheels. People sit in it and an energetic person pedals or pulls them to where they want to go. Rickshaws are still around, but cars have made them less popular
